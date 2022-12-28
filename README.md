@@ -5,3 +5,4 @@ Just FRC Experements From Team 3465
 # https://docs.ctre-phoenix.com/en/stable/
 # https://docs.wpilib.org/en/stable/index.html
 # https://photonvision.org/
+# https://spectrum3847.org/recommendedreading/
